@@ -1,4 +1,4 @@
-# Service: Full BI Implementation
+# Service: BI Implementation
 ### Cloud business intelligence solution from source data extraction through report adoption
 #### Simple | Durable | Transferable
 <br>
