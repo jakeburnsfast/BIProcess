@@ -1,5 +1,5 @@
-# BI Service: Full Implementation
-### Cloud business intelligence architecture from source data extraction through report adoption.
+# Service: Full BI Implementation
+### Cloud business intelligence solution from source data extraction through report adoption
 #### Simple | Durable | Transferable
 <br>
 
@@ -35,11 +35,24 @@
 >* Align with client on what constitutes a reasonable Phase 1
 >* 20-40 hours to develope detailed roadmap and pricing **$4,000 up-front cost**
 >* Meet with client to review roadmap.  Determine if the project will move forward
+>* Simple (text and diagrams), Durable (should keep relevance for ~2 years), Transferrable (well-documented)
 
-### Implementation
->* Standup cloud infrastructure / permissionings / licensing
->* Initial extract/load of source data to data lake
->* Stabilize daily extract/load process with delta logic as needed
+### 2. Extract
+>* Obtain stable access to client source data
+>* Author applications / flow required to extract data into the pipeline(s)
+>* Author any processes required to reformat data into common format (CSV/JSON/SQL)
+>* Simple (control tables, low code pipelines), Durable (use popular Azure tools), Transferable (best practice used and well-documented)
 
-># Why Microsoft
+### 3. Load
+>* Load extracted data into cloud data lake
+>* Identify the newly staged data necessary to drive reporting
+>* Implement best storage / format / query language design for the reporting data
+>* Ensure that all reporting data can be accessed / transformed through SQL
+>* Simple (...
 
+### 4. Transform
+>* Review star schema data models presented in the roadmapping phase
+>* Transform staged data into required dimension sql objects
+>* Transform staged data in required fact sql objects
+>* Write in any additional business logic needed for reporting
+>* Simple (...
