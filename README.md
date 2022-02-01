@@ -1,18 +1,16 @@
-## Service Offered
-Design and implement business intelligence architecture from source data extraction through report adoption.
-
-## Guiding Principles
-* Simple
-* Durable
-* Transferable
+# BI Service: Full Implementation
+### Cloud business intelligence architecture from source data extraction through report adoption.
+#### Simple | Durable | Transferable
+<br>
 
 ## Pricing
-* Fixed price based on:
-  * Number / nature of source systems
-  * Landscape of desired reporting
-  * Complexity of transforms
+#### Fixed price based on:
+* Number / nature of source systems
+* Landscape of desired reporting
+* Complexity of transforms
 
 ## Process
+#### Seven phases of development:
 * Design (metrics needed, source systems, cloude infrastructure)
 * Extract (attach pipeline to source data)
 * Load (deposit source data in data lake in SQL friendly format) - common, efficient language
@@ -21,13 +19,22 @@ Design and implement business intelligence architecture from source data extract
 * Stabilize (ensure data lake matches source and all procedures run successfully)
 * Present (deliver KPIs through reporting interface)
 
+## Platform
+#### Microsoft Azure family of cloud resources:
+* Full toolset (extraction, staging, modeling, reporting)
+* Recent integrations with many data sources / non native languages
+* Reasonable / flexible costs 
+<br> 
 
-### Design
->* Client meeting to review A. current KPIs and B. desired KPIs
->* Undestand in-house capabilities and capacity
->* Review of source systems needed to drive each
->* Alignment with client on what constitutes a reasonable Phase 1
->* 20-40 hour detailed scoping effort and execution plan **OFFERING A w/ DETAILS**
+
+## Development Phases
+### 1. Design
+>* Meet with client to review current **and** desired KPIs
+>* Understand in-house technical abilities and capacity to support the project
+>* Review of source systems needed to drive the KPIs identified
+>* Align with client on what constitutes a reasonable Phase 1
+>* 20-40 hours to develope detailed roadmap and pricing **$4,000 up-front cost**
+>* Meet with client to review roadmap.  Determine if the project will move forward
 
 ### Implementation
 >* Standup cloud infrastructure / permissionings / licensing
@@ -35,6 +42,4 @@ Design and implement business intelligence architecture from source data extract
 >* Stabilize daily extract/load process with delta logic as needed
 
 ># Why Microsoft
-* Full toolset (extraction, staging, modeling, reporting)
-* Recent integrations with many data sources / non native languages
-* Azure (cloud environment) has reasonable costs 
+
