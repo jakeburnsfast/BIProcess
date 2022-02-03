@@ -27,7 +27,7 @@
 <br> 
 
 
-## Development Phases
+# Development Phases
 ### 1. Design
 >* Meet with client to review current **and** desired KPIs
 >* Understand in-house technical abilities and capacity to support the project
