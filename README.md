@@ -85,4 +85,4 @@
 >* Relase reports and documentation
 
 Test image
-![tryThis](https://github.com/jakeburnsfast/BIProcess/blob/main/Test%20Image.png "Okey Dokey")
+![tryThis](https://raw.githubusercontent.com/jakeburnsfast/BIProcess/main/Test%20Image.png "Okey Dokey")
