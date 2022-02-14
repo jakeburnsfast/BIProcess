@@ -1,6 +1,7 @@
-# Service: BI Implementation
-### Cloud business intelligence solution from source data extraction through report adoption
-#### Simple | Durable | Transferable
+## Cloud BI Service: Full Implementation
+---
+### Source data extraction through report delivery 
+##### Simple | Durable | Transferable
 <br>
 
 ## Pricing
@@ -11,19 +12,19 @@
 
 ## Process
 #### Seven phases of development:
-* Design (metrics needed, source systems, cloude infrastructure)
+* Design (metrics needed, source systems, cloud infrastructure)
 * Extract (attach applications / pipelines to source data)
-* Load (deposit source data to data lake in SQL friendly format)
-* Stabilize (optimize performance and cost, ensure successful daily runs)
-* Transform (build star schema data models to support needed KPIs) (single fact if possible, for simplicity & transferability)
-* Validate (confirm the intelligence is accurate)
-* Present (deliver KPIs through reporting interface)
+* Load (replicate source data in data lake)
+* Stabilize (optimize performance/cost, ensure daily synchronization)
+* Transform (build simple star schema data models to enable reporting)
+* Validate (confirm the data models produce accurate metrics)
+* Present (deliver metrics through reporting interface)
 
 ## Platform
-#### Microsoft Azure family of cloud resources:
+#### Microsoft Azure family of resources:
 * Full toolset (extraction, staging, modeling, reporting)
-* Recent integrations with many data sources / non native languages
-* Reasonable / flexible costs 
+* Integration friendly  (data sources / non native languages)
+* Reasonable / flexible cost options 
 <br> 
 
 
