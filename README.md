@@ -76,6 +76,7 @@
 >* Simple (spreadsheet based comparisons), Durable (repeatable process established at start of validation), Transferrable (discrepancies well-documented)
 
 ### 7. Present
+![](https://raw.githubusercontent.com/jakeburnsfast/BIProcess/main/Test%20Image.png) 
 >* Build reporting environment (licensing, workspaces, client access)
 >* Agree on a design standard (colors, slicers, visuals, etc.)
 >* Attach to data model(s) and author final calculations and KPIs
